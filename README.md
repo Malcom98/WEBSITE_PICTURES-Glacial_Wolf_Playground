@@ -80,4 +80,31 @@ There are 4 user types:
 <br>
 
 Bellow this text, there are some pictures of a website.<br>
+*Index page*
+![Index](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/Index.jpg?raw=true)
+*Register page*
+![Register](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/Register.jpg)
+*Login page*
+![Login](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/Prijava.jpg)
+*Playgrounds page*
+![Playgrounds](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/Igraonice.jpg)
+*About me page*
+![About_Me](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/OMeni.jpg)
+*My activities page*
+![My_Activities](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/AktivnostMojeAktivnosti.jpg)
+*Specific playground*
+![Specific_Playground](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/SpecificnaIgraonica.jpg)
+*Specific activity*
+![Specific_Activity](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/SpecificnaAktivnost.jpg?raw=true)
+*Application on pending*
+![Activity_Pending](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/AktivnostNaCekanju.jpg?raw=true)
+*Application accepted*
+![Activity_Accepted](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/AktivnostPrijave3.jpg?raw=true)
+*Moderator - List of applications*
+![List_Of_Applications](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/AktivnostPrijave2.jpg?raw=true)
+*Activity statistics*
+![Activity_Satatistics](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/AktivnostPrijave.jpg)
+*Admin panel
+![Admin_Panel](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/AdminPanel.jpg)
+
 
