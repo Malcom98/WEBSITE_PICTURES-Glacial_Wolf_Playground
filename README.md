@@ -82,28 +82,40 @@ There are 4 user types:
 Bellow this text, there are some pictures of a website.<br>
 *Index page*
 ![Index](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/Index.jpg?raw=true)
+<br/><br/>
 *Register page*
 ![Register](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/Register.jpg)
+<br/><br/>
 *Login page*
 ![Login](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/Prijava.jpg)
+<br/><br/>
 *Playgrounds page*
 ![Playgrounds](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/Igraonice.jpg)
+<br/><br/>
 *About me page*
 ![About_Me](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/OMeni.jpg)
+<br/><br/>
 *My activities page*
 ![My_Activities](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/AktivnostMojeAktivnosti.jpg)
+<br/><br/>
 *Specific playground*
 ![Specific_Playground](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/SpecificnaIgraonica.jpg)
+<br/><br/>
 *Specific activity*
 ![Specific_Activity](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/SpecificnaAktivnost.jpg?raw=true)
+<br/><br/>
 *Application on pending*
 ![Activity_Pending](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/AktivnostNaCekanju.jpg?raw=true)
+<br/><br/>
 *Application accepted*
 ![Activity_Accepted](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/AktivnostPrijave3.jpg?raw=true)
+<br/><br/>
 *Moderator - List of applications*
 ![List_Of_Applications](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/AktivnostPrijave2.jpg?raw=true)
+<br/><br/>
 *Activity statistics*
 ![Activity_Satatistics](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/AktivnostPrijave.jpg)
+<br/><br/>
 *Admin panel
 ![Admin_Panel](https://github.com/Malcom98/WEBSITE_PICTURES-Glacial_Wolf_Playground/blob/master/AdminPanel.jpg)
 
